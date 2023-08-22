@@ -4,8 +4,8 @@ What a great game! This is just to sync my save files from my desktop to my lapt
 
 ## Where is the Saves directory?
 
-- Mac directory: ~/Library/Application Support/Celeste/Saves
-- Winddows directory: <where-you-put-it>/Celeste/Saves
+- Mac directory: `~/Library/Application Support/Celeste/Saves`
+- Winddows directory: `<where-you-put-it>/Celeste/Saves`
 
 ## Quickly Save and Update
 
@@ -13,4 +13,7 @@ What a great game! This is just to sync my save files from my desktop to my lapt
     - `alias celeste-pull="cd ~/Library/Application\ Support/Celeste/Saves && make pull"`
     - `alias celeste-push="cd ~/Library/Application\ Support/Celeste/Saves && make push"`
 
-- Windows: I hate windows and I'm too lazy, so just go to the directory and use the Makefile lol
+- Windows:
+    - copy the cmd scripts in `win-shortcuts` to your home dir or wherever your terminal opens to
+    - you will need `make` but you can simply swap the command into the .cmd files anyway
+    - I really don't like windows, unix is so much better
