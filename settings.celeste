@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <DefaultFileName />
   <Fullscreen>true</Fullscreen>
-  <WindowScale>6</WindowScale>
+  <WindowScale>4</WindowScale>
   <ViewportPadding>0</ViewportPadding>
   <VSync>true</VSync>
   <DisableFlashes>false</DisableFlashes>
