@@ -1,6 +1,7 @@
 # Celeste Save Files :strawberry:
 
-What a great game! This is just to sync my save files from my desktop to my laptop. I'm using the itch.io version btw.
+What a great game! This is just to sync my save files from my desktop to my laptop. 
+I'm using the itch.io version btw. I got this idea from Spencer at the [Outernet](https://github.com/hackclub/outernet)!
 
 ## Where is the Saves directory?
 
