@@ -2,7 +2,7 @@
 <SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>1253661600000</Time>
+  <Time>1298149240000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>9</UnlockedAreas>
-  <TotalDeaths>9613</TotalDeaths>
+  <TotalDeaths>9842</TotalDeaths>
   <TotalStrawberries>153</TotalStrawberries>
   <TotalGoldenStrawberries>0</TotalGoldenStrawberries>
-  <TotalJumps>38326</TotalJumps>
-  <TotalWallJumps>10060</TotalWallJumps>
-  <TotalDashes>35651</TotalDashes>
+  <TotalJumps>39887</TotalJumps>
+  <TotalWallJumps>10218</TotalWallJumps>
+  <TotalDashes>36934</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -264,7 +264,7 @@
     </AreaStats>
     <AreaStats ID="5" Cassette="true">
       <Modes>
-        <AreaModeStats TotalStrawberries="31" Completed="true" SingleRunCompleted="true" FullClear="true" Deaths="740" TimePlayed="179305460000" BestTime="27195070000" BestFullClearTime="27195070000" BestDashes="524" BestDeaths="92" HeartGem="true">
+        <AreaModeStats TotalStrawberries="31" Completed="true" SingleRunCompleted="true" FullClear="true" Deaths="783" TimePlayed="193432970000" BestTime="14051180000" BestFullClearTime="27195070000" BestDashes="311" BestDeaths="43" HeartGem="true">
           <Strawberries>
             <EntityID Key="a-04:2" />
             <EntityID Key="a-05:22" />
@@ -321,7 +321,7 @@
     </AreaStats>
     <AreaStats ID="6" Cassette="true">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="493" TimePlayed="74834170000" BestTime="62899150000" BestFullClearTime="0" BestDashes="516" BestDeaths="485" HeartGem="true">
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="true" Deaths="679" TimePlayed="105194300000" BestTime="29220620000" BestFullClearTime="29220620000" BestDashes="354" BestDeaths="186" HeartGem="true">
           <Strawberries />
           <Checkpoints>
             <string>00</string>
