@@ -1,15 +1,15 @@
 # Celeste Save Files :strawberry:
 
 What a great game! This is just to sync my save files from my desktop to my laptop. 
-I'm using the itch.io version btw. I got this idea from Spencer at the [Outernet](https://github.com/hackclub/outernet)!
+I'm using the itch.io version by the way. I got this idea from Spencer at the [Outernet](https://github.com/hackclub/outernet)!
 
 ![game progress](game_progress.png)
-> game progress as of *2023-09-23*
+> game progress as of *2023-09-24 in `0.celeste`*
 
 ## Where is the Saves directory?
 
 - Mac directory: `~/Library/Application Support/Celeste/Saves`
-- Winddows directory: `<where-you-put-it>/Celeste/Saves`
+- Windows directory: `<where-you-put-it>/Celeste/Saves`
 
 ## Quickly Save and Update
 
