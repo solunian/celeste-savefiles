@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>1503726160000</Time>
+  <Time>1524736290000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>9</UnlockedAreas>
-  <TotalDeaths>11669</TotalDeaths>
-  <TotalStrawberries>168</TotalStrawberries>
+  <TotalDeaths>11847</TotalDeaths>
+  <TotalStrawberries>171</TotalStrawberries>
   <TotalGoldenStrawberries>0</TotalGoldenStrawberries>
-  <TotalJumps>44931</TotalJumps>
-  <TotalWallJumps>12325</TotalWallJumps>
-  <TotalDashes>44315</TotalDashes>
+  <TotalJumps>45442</TotalJumps>
+  <TotalWallJumps>12530</TotalWallJumps>
+  <TotalDashes>45305</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -57,7 +57,7 @@
     <boolean>false</boolean>
   </SummitGems>
   <RevealedChapter9>false</RevealedChapter9>
-  <LastArea ID="0" Mode="Normal" />
+  <LastArea ID="7" Mode="Normal" />
   <Areas>
     <AreaStats ID="0" Cassette="false">
       <Modes>
@@ -348,7 +348,7 @@
     </AreaStats>
     <AreaStats ID="7" Cassette="true">
       <Modes>
-        <AreaModeStats TotalStrawberries="44" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="2245" TimePlayed="235894380000" BestTime="140191010000" BestFullClearTime="0" BestDashes="898" BestDeaths="1595" HeartGem="false">
+        <AreaModeStats TotalStrawberries="47" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="2423" TimePlayed="256904510000" BestTime="140191010000" BestFullClearTime="0" BestDashes="898" BestDeaths="1595" HeartGem="false">
           <Strawberries>
             <EntityID Key="a-04b:136" />
             <EntityID Key="a-04b:85" />
@@ -394,6 +394,9 @@
             <EntityID Key="e-02:7" />
             <EntityID Key="f-11:1238" />
             <EntityID Key="g-01:66" />
+            <EntityID Key="g-03:1504" />
+            <EntityID Key="d-01d:282" />
+            <EntityID Key="d-10b:682" />
           </Strawberries>
           <Checkpoints>
             <string>b-00</string>
