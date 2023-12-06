@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>2060379940000</Time>
+  <Time>2065147420000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>16722</TotalDeaths>
+  <TotalDeaths>16753</TotalDeaths>
   <TotalStrawberries>177</TotalStrawberries>
   <TotalGoldenStrawberries>2</TotalGoldenStrawberries>
-  <TotalJumps>63330</TotalJumps>
-  <TotalWallJumps>16665</TotalWallJumps>
-  <TotalDashes>66412</TotalDashes>
+  <TotalJumps>63448</TotalJumps>
+  <TotalWallJumps>16765</TotalWallJumps>
+  <TotalDashes>66692</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -61,7 +61,7 @@
     <boolean>true</boolean>
   </SummitGems>
   <RevealedChapter9>true</RevealedChapter9>
-  <LastArea ID="1" Mode="Normal" />
+  <LastArea ID="7" Mode="Normal" />
   <Areas>
     <AreaStats ID="0" Cassette="false">
       <Modes>
@@ -354,7 +354,7 @@
     </AreaStats>
     <AreaStats ID="7" Cassette="true">
       <Modes>
-        <AreaModeStats TotalStrawberries="47" Completed="true" SingleRunCompleted="true" FullClear="true" Deaths="3097" TimePlayed="347126400000" BestTime="19937090000" BestFullClearTime="55884440000" BestDashes="571" BestDeaths="129" HeartGem="true">
+        <AreaModeStats TotalStrawberries="47" Completed="true" SingleRunCompleted="true" FullClear="true" Deaths="3128" TimePlayed="351893880000" BestTime="19937090000" BestFullClearTime="55884440000" BestDashes="571" BestDeaths="129" HeartGem="true">
           <Strawberries>
             <EntityID Key="a-04b:136" />
             <EntityID Key="a-04b:85" />
