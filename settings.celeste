@@ -13,7 +13,7 @@
   <CrouchDashMode>Press</CrouchDashMode>
   <MusicVolume>10</MusicVolume>
   <SFXVolume>10</SFXVolume>
-  <SpeedrunClock>true</SpeedrunClock>
+  <SpeedrunClock>false</SpeedrunClock>
   <LastSaveFile>0</LastSaveFile>
   <Language>english</Language>
   <Pico8OnMainMenu>true</Pico8OnMainMenu>
