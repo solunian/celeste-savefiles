@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>2140491930000</Time>
+  <Time>2144077740000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>17602</TotalDeaths>
+  <TotalDeaths>17629</TotalDeaths>
   <TotalStrawberries>177</TotalStrawberries>
   <TotalGoldenStrawberries>2</TotalGoldenStrawberries>
-  <TotalJumps>65857</TotalJumps>
-  <TotalWallJumps>17107</TotalWallJumps>
-  <TotalDashes>69352</TotalDashes>
+  <TotalJumps>65973</TotalJumps>
+  <TotalWallJumps>17167</TotalWallJumps>
+  <TotalDashes>69487</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -61,7 +61,7 @@
     <boolean>true</boolean>
   </SummitGems>
   <RevealedChapter9>true</RevealedChapter9>
-  <LastArea ID="0" Mode="Normal" />
+  <LastArea ID="0" Mode="CSide" />
   <Areas>
     <AreaStats ID="0" Cassette="false">
       <Modes>
@@ -117,7 +117,7 @@
             <string>08</string>
           </Checkpoints>
         </AreaModeStats>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="216" TimePlayed="15601750000" BestTime="10261030000" BestFullClearTime="0" BestDashes="18" BestDeaths="135" HeartGem="true">
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="231" TimePlayed="17636480000" BestTime="1904850000" BestFullClearTime="0" BestDashes="17" BestDeaths="12" HeartGem="true">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
@@ -159,7 +159,7 @@
             <string>08b</string>
           </Checkpoints>
         </AreaModeStats>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="200" TimePlayed="19035750000" BestTime="18978970000" BestFullClearTime="0" BestDashes="26" BestDeaths="199" HeartGem="true">
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="212" TimePlayed="20586830000" BestTime="1535610000" BestFullClearTime="0" BestDashes="26" BestDeaths="12" HeartGem="true">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
