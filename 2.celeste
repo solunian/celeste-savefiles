@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>4083740000</Time>
+  <Time>12658540000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -23,17 +23,20 @@
     <PlayAsBadeline>false</PlayAsBadeline>
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
-  <UnlockedAreas>3</UnlockedAreas>
-  <TotalDeaths>2</TotalDeaths>
+  <UnlockedAreas>4</UnlockedAreas>
+  <TotalDeaths>41</TotalDeaths>
   <TotalStrawberries>0</TotalStrawberries>
   <TotalGoldenStrawberries>0</TotalGoldenStrawberries>
-  <TotalJumps>242</TotalJumps>
-  <TotalWallJumps>49</TotalWallJumps>
-  <TotalDashes>177</TotalDashes>
-  <Flags />
+  <TotalJumps>717</TotalJumps>
+  <TotalWallJumps>135</TotalWallJumps>
+  <TotalDashes>539</TotalDashes>
+  <Flags>
+    <string>MetTheo</string>
+    <string>TheoKnowsName</string>
+  </Flags>
   <Poem />
   <RevealedChapter9>false</RevealedChapter9>
-  <LastArea ID="3" Mode="Normal" />
+  <LastArea ID="4" Mode="Normal" />
   <Areas>
     <AreaStats ID="0" Cassette="false">
       <Modes>
@@ -91,9 +94,13 @@
     </AreaStats>
     <AreaStats ID="3" Cassette="false">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="39" TimePlayed="8574800000" BestTime="8525160000" BestFullClearTime="0" BestDashes="249" BestDeaths="39" HeartGem="false">
           <Strawberries />
-          <Checkpoints />
+          <Checkpoints>
+            <string>08-a</string>
+            <string>09-d</string>
+            <string>00-d</string>
+          </Checkpoints>
         </AreaModeStats>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
