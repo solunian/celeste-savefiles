@@ -1,7 +1,9 @@
 # Celeste Save Files :strawberry:
 
 What a great game! This is just to sync my save files from my desktop to my laptop. 
-I'm using the itch.io version by the way. I got this idea from Spencer at the [Outernet](https://github.com/hackclub/outernet)!
+I'm using the itch.io version by the way. I got this idea from Spencer at the
+[Outernet](https://github.com/hackclub/outernet)! (actually, Steam Cloud syncs files, so... maybe just
+buy the steam version lol)
 
 ![game progress](screenshots/2023-10-11.png)
 > game progress as of *2023-10-11 in `0.celeste`*
